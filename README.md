@@ -4,11 +4,11 @@
 
 - 🎓 I’m currently studying **R V College Of Engineering**
 
-- 🌱 I’m currently learning **AI AND ML**
+- 🧑‍🎓 I’m currently learning **AI AND ML**
 
-- I’m looking to collaborate on **Machine Learning Projects**
+- 🛂 I’m looking to collaborate on **Machine Learning Projects**
 
-- My mail **ravikiranaithal24@gmail.com**
+- 📧 My mail **ravikiranaithal24@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://www.canva.com/design/DAGQki2ZjRs/H02KKVs2gkZKpYvcTzpu3A/edit?utm_content=DAGQki2ZjRs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
