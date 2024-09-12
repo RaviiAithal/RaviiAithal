@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravikiran Aithal</h1>
 <h3 align="center">Artificial Intelligence & Machine Learning Student</h3>
+<img src="https://github.com/user-attachments/assets/dd9142e6-16b8-4767-8267-64bd69d24d6a" alt="coding" align="right" style="position: absolute; top: 0; right: 0; width: 300px;"/>
 
 - 🎓 I’m currently studying **R V College Of Engineering**
 
@@ -11,19 +12,12 @@
 
 - 📄 Know about my experiences [Resume](https://www.canva.com/design/DAGQki2ZjRs/H02KKVs2gkZKpYvcTzpu3A/edit?utm_content=DAGQki2ZjRs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/ravikiran-aithal-76674519b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/https://leetcode.com/u/ravikiranaithal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-    </p>
-  </div>
 
-  <div style="padding-top: -50px;">
-    <img align="right" src="https://github.com/user-attachments/assets/dd9142e6-16b8-4767-8267-64bd69d24d6a" alt="GIF" width="300" />
-  </div>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravikiran-aithal-76674519b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ravikiranaithal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
