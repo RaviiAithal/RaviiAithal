@@ -20,8 +20,9 @@
     </p>
   </div>
   
+
   <div>
-    <img align="right" src="[https://path_to_your_gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2g0rZosNxNsepBDSk9kLXc&ust=1726252784878000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDe4PWGvogDFQAAAAAdAAAAABAh)" alt="GIF" width="300" />
+    <img align="right" src="https://github.com/user-attachments/assets/dd9142e6-16b8-4767-8267-64bd69d24d6a " alt="GIF" width="300" />
   </div>
 </div>
 
